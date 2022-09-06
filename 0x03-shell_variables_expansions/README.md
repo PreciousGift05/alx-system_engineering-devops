@@ -1,1 +1,1 @@
-set | less  script that lists all local variables and environment variables, and functions
+BEST="School" script that creates a new local variable
