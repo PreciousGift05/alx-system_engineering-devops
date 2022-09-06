@@ -1,1 +1,1 @@
-echo $PATH | tr : "\n" | wc -l script that counts the number of directories in the PATH
+printenv | less script that lists environment variables
