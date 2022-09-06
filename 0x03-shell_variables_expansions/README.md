@@ -1,1 +1,1 @@
-echo $(($BREATH**$LOVE))  script that displays the result of BREATH to the power LOVE
+echo $((2#$BINARY)) script that converts a number from base 2 to base 10
