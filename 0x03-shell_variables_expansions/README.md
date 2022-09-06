@@ -1,1 +1,1 @@
-BEST="School" script that creates a new local variable
+export BEST="School" script that creates a new global variable
