@@ -1,1 +1,1 @@
-printf "%x\n" $DECIMAL script that encodes and decodes text using the rot13 encryption. Assume ASCII
+paste -d, - - | cut -d, -f1 script that prints every other line from the input, starting with the first line
